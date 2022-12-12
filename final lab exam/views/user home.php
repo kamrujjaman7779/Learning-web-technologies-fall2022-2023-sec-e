@@ -7,8 +7,6 @@
     <title>user Home Page</title>
 </head>
 <body>
-
-    <form action="regCheck.php" method="post" enctype="">
 <table border=" 1" align = "center">
         <tr>
             <td><h2>Welcome Anne!</h2>
